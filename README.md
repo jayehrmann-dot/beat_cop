@@ -8,10 +8,6 @@ A thug who stops and raises his gun will shoot your armor unless you drop him
 first. Between rounds you choose one thing: repair your armor or improve your
 weapon. Atari 2600 looks, one screen, one button, inside your terminal.
 
-<p align="center">
-<img width="571" height="427" alt="beat_cop" src="https://github.com/user-attachments/assets/baeb1214-7c7a-4c15-a4c2-730512bc56a3" />
-</p>
-
 ```bash
 ./play.sh [rookie|officer|detective] [--sound]
 ```
